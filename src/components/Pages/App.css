@@ -1,0 +1,26 @@
+
+html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+::-webkit-scrollbar {
+    width: 0;  
+    background: transparent;  
+}
+::-webkit-scrollbar-thumb {
+    background: #FF0000;
+}
+
+.text {
+    margin: 0 100px ;
+}
+
+h1{
+    position: relative;
+    z-index: 2;
+    bottom: 500px;
+    color: white;
+}

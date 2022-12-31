@@ -1,0 +1,10 @@
+.Nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 100px;
+}
+.Nav a {
+  text-decoration: none;
+  color: #8d3232;
+  margin-right: 12px;
+}/*# sourceMappingURL=Nav.css.map */
