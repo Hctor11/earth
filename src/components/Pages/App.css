@@ -15,12 +15,25 @@ html{
 }
 
 .text {
-    margin: 0 100px ;
+    margin: 0 300px ;
+    color: white;
+    position: relative;
+    z-index: 2;
+    bottom: 600px;
+    color: white;
+    padding-right: 800px;
+}
+
+p{
+    font-weight: lighter;
+    line-height: 16px;
 }
 
 h1{
+    line-height: 30px;
+}
+
+.Nav{
     position: relative;
-    z-index: 2;
-    bottom: 500px;
-    color: white;
+    bottom: 900px;
 }
