@@ -6,8 +6,7 @@ const Section2 = () => {
   return (
     <div className="container">
       <div className="wrapper">
-        <img src={img2} alt="forest image" />
-        <p>
+        <p className="information">
           We invite you to join us on this journey of discovery, and to share
           your own insights and experiences with us. Whether you are a
           scientist, a nature enthusiast, or just someone who loves learning
@@ -15,6 +14,7 @@ const Section2 = () => {
           valuable source of knowledge and inspiration. So come explore with us,
           and discover all that planet Earth has to offer!
         </p>
+        <img src={img2} alt="forest image" width="1200px"/>
       </div>
     </div>
   );
