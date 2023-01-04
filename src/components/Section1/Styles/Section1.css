@@ -1,1 +1,14 @@
-/*# sourceMappingURL=Section1.css.map */
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.information {
+  margin-left: 100px;
+  padding-right: 200px;
+  color: #ffffff;
+}
+.information p {
+  color: #ffffff;
+}/*# sourceMappingURL=Section1.css.map */

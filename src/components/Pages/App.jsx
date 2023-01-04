@@ -1,6 +1,8 @@
 import Spline from "@splinetool/react-spline";
+import { gsap } from "gsap";
 import "../Pages/App.css";
 import Nav from "../Navigation/Nav";
+import Section1 from "../Section1/Section1";
 
 function App() {
   return (
@@ -18,6 +20,7 @@ function App() {
           of wonders waiting to be explored.
         </p>
       </div>
+      <Section1/>
     </div>
   );
 }
