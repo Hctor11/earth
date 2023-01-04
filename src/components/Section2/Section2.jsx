@@ -3,6 +3,7 @@ import "../Section2/Styles/Styles.css";
 import img2 from "../img/img2.png";
 
 const Section2 = () => {
+
   return (
     <div className="container">
       <div className="wrapper">
