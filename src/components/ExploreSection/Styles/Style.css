@@ -1,0 +1,10 @@
+.ExploreSection {
+  margin-top: 64px;
+}
+.ExploreSection .cards-container {
+  display: flex;
+  margin: 0 100px;
+  justify-content: center;
+  margin-top: 64px;
+  gap: 12px;
+}/*# sourceMappingURL=Style.css.map */

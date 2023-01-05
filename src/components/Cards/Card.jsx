@@ -8,6 +8,7 @@ const Cards = ({ img, name }) => {
         height: 790,
         width: 400,
         backgroundImage: "url(" + img + ")",
+        cursor: "pointer"
       }}
     >
       <h2 style={{

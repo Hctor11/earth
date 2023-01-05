@@ -3,6 +3,7 @@ import Card from "../Cards/Card";
 import card1 from "../img/card1.png";
 import card2 from "../img/card2.png";
 import card3 from "../img/card3.png";
+import '../ExploreSection/Styles/Style.css'
 
 const ExploreSection = () => {
   return (
@@ -17,9 +18,9 @@ const ExploreSection = () => {
         Explore
       </span>
       <div className="cards-container">
-        <Card img={card1} name={"hola los tilines"} />
-        <Card img={card2} name={"que so que so"} />
-        <Card img={card3} name={"chiquitin"} />
+        <Card className="card" img={card1} name={"hola los tilines"} />
+        <Card className="card" img={card2} name={"que so que so"} />
+        <Card className="card" img={card3} name={"chiquitin"} />
       </div>
     </div>
   );
