@@ -4,6 +4,7 @@ import "../Pages/App.css";
 import Nav from "../Navigation/Nav";
 import Section1 from "../Section1/Section1";
 import Section2 from "../Section2/Section2";
+import ExploreSection from "../ExploreSection/ExploreSection";
 
 function App() {
 
@@ -24,6 +25,7 @@ function App() {
       </div>
       <Section1/>
       <Section2/>
+      <ExploreSection/>
     </div>
   );
 }
