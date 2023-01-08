@@ -1,0 +1,11 @@
+.AboutContainer {
+  display: flex;
+  justify-content: center;
+  margin: 400px 400px;
+}
+.AboutContainer .textAbout {
+  color: #fff;
+}
+.AboutContainer .textAbout p {
+  font-size: 12px;
+}/*# sourceMappingURL=Styles.css.map */

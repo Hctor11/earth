@@ -16,6 +16,7 @@ const Cards = ({ img, name }) => {
         display: "inline-block",
         marginLeft: "16px",
         fontSize: "32px",
+        lineHeight: "32px"
       }}
       >{name}</h2>
     </div>

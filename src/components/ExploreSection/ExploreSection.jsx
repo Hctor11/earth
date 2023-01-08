@@ -18,9 +18,9 @@ const ExploreSection = () => {
         Explore
       </span>
       <div className="cards-container">
-        <Card className="card" img={card1} name={"hola los tilines"} />
-        <Card className="card" img={card2} name={"que so que so"} />
-        <Card className="card" img={card3} name={"chiquitin"} />
+        <Card className="card" img={card1} name={"Zhangye Danxia, China"} />
+        <Card className="card" img={card2} name={"Tulip Fields, Netherlands"} />
+        <Card className="card" img={card3} name={"Laguna Colorada, Bolivia"} />
       </div>
     </div>
   );

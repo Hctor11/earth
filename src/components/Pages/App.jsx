@@ -5,6 +5,7 @@ import Nav from "../Navigation/Nav";
 import Section1 from "../Section1/Section1";
 import Section2 from "../Section2/Section2";
 import ExploreSection from "../ExploreSection/ExploreSection";
+import About from "../AboutSection/About";
 
 function App() {
 
@@ -26,6 +27,7 @@ function App() {
       <Section1/>
       <Section2/>
       <ExploreSection/>
+      <About/>
     </div>
   );
 }
